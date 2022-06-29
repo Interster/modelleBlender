@@ -23,3 +23,9 @@ git add .gitattributes
 ## kimosabie 1
 
 Die eerste 3D model van LJ Agenbag.
+
+
+
+## Blender weergawe
+
+3.2.0
